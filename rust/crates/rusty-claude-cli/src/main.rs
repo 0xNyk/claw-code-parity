@@ -1,3 +1,4 @@
+#![allow(dead_code, unused_imports, unused_variables, clippy::unneeded_struct_pattern, clippy::unnecessary_wraps, clippy::unused_self)]
 mod init;
 mod input;
 mod render;
